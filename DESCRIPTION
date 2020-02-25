@@ -1,5 +1,5 @@
-Package: gdstheme
-Title: Templates and Themes for 
+Package: cotheme
+Title: RMarkdown Templates and Themes for Cabinet Office
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Matt",
