@@ -9,8 +9,8 @@ Authors@R:
 Description: RMarkdown templates and CSS themes for reproducing the style of
     the Cabinet Office's (CO) reports.
 License: MIT + file LICENSE
-URL: https://github.com/matt-dray/gdstheme
-BugReports: https://github.com/matt-dray/gdstheme/issues
+URL: https://github.com/matt-dray/cotheme
+BugReports: https://github.com/matt-dray/cotheme/issues
 Encoding: UTF-8
 LazyData: true
 Imports:
